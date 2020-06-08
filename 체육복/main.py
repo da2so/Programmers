@@ -1,6 +1,5 @@
 from 체육복.Solution import solution
 
-
 if __name__ == "__main__":
     n=5
     lost=[2,3]
